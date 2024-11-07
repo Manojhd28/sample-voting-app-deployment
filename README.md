@@ -13,6 +13,9 @@ Goals:
 
 3	External Access
 
+![image](https://github.com/user-attachments/assets/2f9a5959-68e5-41ba-ac0c-af815f501442)
+
+
 The overall structure of the application is straightforward. End-users interact with the application via the "voting-app" microservice. Redis receives the vote, and passes it along to the Worker microservice. 
 
 The Worker microservice stores the vote into PostgreSQL, and the results are viewable to the end-user via the "result-app" microservice.
