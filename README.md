@@ -8,7 +8,9 @@ PostgeSQL: Worker app updated with the total count of vote, and also accessed by
 
 Goals:
 1	Deploy Pod
+
 2	Enable Connectivity
+
 3	External Access
 
 The overall structure of the application is straightforward. End-users interact with the application via the "voting-app" microservice. Redis receives the vote, and passes it along to the Worker microservice. 
