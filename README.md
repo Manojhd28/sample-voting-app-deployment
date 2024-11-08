@@ -106,8 +106,6 @@ Access the Result App on its port (e.g., 31001) to view real-time voting results
 
 Contributions are welcome! Please fork the repository and submit a pull request.
 
-**11. License**
 
-This project is licensed under the MIT License. See the LICENSE file for details.
 
 
